@@ -230,7 +230,7 @@ This project is developed for educational and academic purposes.
 
 ## 🙌 Contributors
 
-- Akshan Kulal
+- Akshan B
 
 ---
 
