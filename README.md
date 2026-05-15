@@ -228,15 +228,21 @@ The project is considered successful if:
 
 # 📸 Screenshots
 
-Add application screenshots inside the `screenshots/` folder.
+## Login Page
 
-```text
-screenshots/loginpage.jpeg
-screenshots/homepage.jpeg
-screenshots/customer.jpeg
-```
+![Login Page](screenshots/loginpage.jpeg)
 
 ---
+
+## Home Page
+
+![Home Page](screenshots/homepage.jpeg)
+
+---
+
+## Customer Page
+
+![Customer Page](screenshots/customer.jpeg)
 
 # ⚙️ Installation & Setup
 
