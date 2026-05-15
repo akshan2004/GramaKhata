@@ -230,19 +230,21 @@ The project is considered successful if:
 
 ## Login Page
 
-![Login Page](screenshots/loginpage.jpeg)
+<img src="screenshots/loginpage.jpeg" width="300"/>
 
 ---
 
 ## Home Page
 
-![Home Page](screenshots/homepage.jpeg)
+<img src="screenshots/homepage.jpeg" width="300"/>
 
 ---
 
 ## Customer Page
 
-![Customer Page](screenshots/customer.jpeg)
+<img src="screenshots/customer.jpeg" width="300"/>
+
+---
 
 # ⚙️ Installation & Setup
 
